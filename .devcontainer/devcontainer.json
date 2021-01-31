@@ -13,8 +13,10 @@
 
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
-    "James-Yu.latex-workshop",
-  ],
+    		"James-Yu.latex-workshop",
+		"analytic-signal.preview-pdf",
+		"mutantdino.resourcemonitor"
+  	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
